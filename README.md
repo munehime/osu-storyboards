@@ -1,6 +1,7 @@
 # OSB-Projects
 
 ### Available Projects
+- [PinocchioP - Ghosts Play to the Audience](https://github.com/munehime/OSB-Projects/tree/Ghosts-Play-to-the-Audience)
 - [Various Artists - Pátt!Memories](https://github.com/munehime/OSB-Projects/tree/Patt-Memories)
 - [polysha - KAMUSUSANOWO](https://github.com/munehime/OSB-Projects/tree/KAMUSUSANOWO)
 - [Various Artists - osu! Community Choice 2019](https://github.com/munehime/OSB-Projects/tree/osu-Community-Choice-2019)
