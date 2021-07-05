@@ -10,3 +10,4 @@
 - [xi - Songs Compilation](https://github.com/munehime/OSB-Projects/tree/xi-Songs-Compilation)
 - [Doja Cat - Like That (feat. Gucci Mane)](https://github.com/munehime/OSB-Projects/tree/Like-That)
 - [Uyanga Bold - Lullabye](https://github.com/munehime/OSB-Projects/tree/Lullabye)
+- [myu - Stardust Tears](https://github.com/munehime/OSB-Projects/tree/Stardust-Tears)
