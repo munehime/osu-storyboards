@@ -1,0 +1,29 @@
+﻿FormatVersion: 7
+Name: "Credits"
+Script: "Credits"
+Multithreaded: No
+Config:
+  TopFontPath:
+    Type: "System.String"
+    Value: "fonts/Paulo Goode - Torus Bold.otf"
+  BottomFontPath:
+    Type: "System.String"
+    Value: "fonts/Paulo Goode - Torus Light.otf"
+  ClientSize:
+    Type: "System.Boolean"
+    Value: "False"
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  385b1a93084a4074b68061f22325529e:
+    Name: "bg"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  4f6f32bcb7ea4d29949f8c69112298cc:
+    Name: ""
+    OsbLayer: Foreground
+    DiffSpecific: Yes
+    Visible: Yes

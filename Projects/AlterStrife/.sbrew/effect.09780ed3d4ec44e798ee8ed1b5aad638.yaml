@@ -1,0 +1,40 @@
+﻿FormatVersion: 7
+Name: "HitObjectsHighlights"
+Script: "HitObjectsHighlights"
+Multithreaded: No
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  af6de464df414022aa9709115e6272a7:
+    Name: "exploding"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  0921a9db1807485b8706206124661963:
+    Name: "exploding_2"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  c41e973ca5af477cbb826cc381b4d268:
+    Name: "glowing"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  105d346b469340c8946ebf9797249310:
+    Name: "glowing_with_draw_slider"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  04b7ea4301fd409bae2aec34fe9ed7e9:
+    Name: "rings"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  d2bbd2f0b40b470298f50fee080bd43c:
+    Name: "strikes"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes

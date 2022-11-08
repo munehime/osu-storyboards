@@ -1,0 +1,50 @@
+﻿FormatVersion: 7
+Name: "Transitions"
+Script: "Transitions"
+Multithreaded: No
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  541c3de7d3084d61b1b60cef42fe0c5e:
+    Name: "diagonal_close"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  2dddef8351ed4b30b5cd25e97d9302ce:
+    Name: "black_close"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  da025f91efdf4c9586f52f805eaeec6e:
+    Name: "split_scale_close_updown"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  db9ecb87528a438bb36895d8a92a991b:
+    Name: "split_scale_close_leftright"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  4e8cfa08ab1149fe88960713a871e7f8:
+    Name: "split_scale_close_horizontal"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  88b34f332b624ddbb112d2222ed86857:
+    Name: "rotating_square"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  b09e2534118d49f1b4e686c0e420f3dc:
+    Name: "rotating_square2"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  721d48245a01412bbd4ec0da91d348cd:
+    Name: "flash"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes

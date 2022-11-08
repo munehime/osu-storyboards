@@ -1,0 +1,21 @@
+﻿FormatVersion: 7
+Name: "PartOf"
+Script: "PartOf"
+Multithreaded: No
+Config:
+  FontPath:
+    Type: "System.String"
+    Value: "fonts/Paulo Goode - Torus Light.otf"
+  ClientSize:
+    Type: "System.Boolean"
+    Value: "False"
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  60781ddd1a5c4809acfdd24cc267aaad:
+    Name: ""
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes

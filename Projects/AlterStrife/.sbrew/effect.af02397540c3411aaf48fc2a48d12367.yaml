@@ -1,0 +1,60 @@
+﻿FormatVersion: 7
+Name: "Backgrounds"
+Script: "Backgrounds"
+Multithreaded: No
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "72727"
+    DisplayName: "Random seed"
+Layers:
+  06018a7bfe2a4c3f932323238205b1d5:
+    Name: "post_credits"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  cdbcd01fd1434e1180b905f31985521e:
+    Name: "moving_background"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  6ea035a134ea4d2d8295d9902df98ecb:
+    Name: "first_funky_part"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  394adf70d7934f7086061759f37723e8:
+    Name: "second_funky_part"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  ccdeffb2015d4b7d9d22df47747e82e8:
+    Name: "second_slow_part"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  2039b5c5bb7c409a97132813705a82c7:
+    Name: "lines"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  d595da0883654e1db0394e4c56e399ba:
+    Name: "post_buildup"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  fe0fcc382abc47e7bb25643b3edc567f:
+    Name: "first_slow_part"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  a3e6caca6b5340678fd5b4864a95b987:
+    Name: "ending"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  c63bb2fe968b45c2b2cfd46d8010e340:
+    Name: "solid_black"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
