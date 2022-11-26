@@ -1,0 +1,3 @@
+[submodule "Projects/CamelliaSupermix/src"]
+	path = Projects/CamelliaSupermix/src
+	url = https://github.com/ZeroPyrozen/camellia-supermix

@@ -47,3 +47,7 @@
 - [Sad Keyboard Guy, sleepless & Myntian - Alter//Strife feat. vally.exe](https://github.com/munehime/osu-storyboards/tree/main/Projects/AlterStrife)
 
   ![image](https://raw.githubusercontent.com/munehime/osu-storyboards/main/assets/images/storyboards/1881706.png)
+
+- [Camellia - Camellia Supermix](https://github.com/munehime/osu-storyboards/tree/main/Projects/CamelliaSupermix)
+
+  ![image](https://raw.githubusercontent.com/munehime/osu-storyboards/main/assets/images/storyboards/1821204.png)
