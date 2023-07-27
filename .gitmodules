@@ -1,3 +1,7 @@
-[submodule "Projects/CamelliaSupermix/src"]
-	path = Projects/CamelliaSupermix/src
+[submodule "projects/AlterStrife/src"]
+	path = projects/AlterStrife/src
+	url = https://github.com/vncommunityleague/vcl-osu-storyboards/tree/main/projects/2022/vnoc/AlterStrife/src
+
+[submodule "projects/CamelliaSupermix/src"]
+	path = projects/CamelliaSupermix/src
 	url = https://github.com/ZeroPyrozen/camellia-supermix
